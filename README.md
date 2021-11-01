@@ -11,7 +11,7 @@
 ✍️  In my free time, I pursue UI/UX Design as hobbies/side hustles.\
 🌱 I have basic knowledge in ```Web Development``` `Object-Oriented Programming` ```Data Structures and Algorithms``` ```UI/UX Design```     
  📫 Contact me via:   
-<a href="https://fb.com/lehagiabao0205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lehagiabao0205" height="30" width="40" /></a>
+<a href="https://fb.com/lehagiabao0205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lehagiabao0205" height="30" width="40" target="_blank"/></a>
 <a href="https://linkedin.com/in/lehagiabao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lehagiabao" height="30" width="40" /></a>
 <a href="https://instagram.com/le.ha.gia.bao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="le.ha.gia.bao" height="30" width="40" /></a>
 <a href="https://twitter.com/lehagiabao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lehagiabao" height="30" width="40" /></a>
