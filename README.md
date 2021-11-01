@@ -36,7 +36,9 @@
 </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lehagiabao&show_icons=true&locale=en&layout=compact" alt="lehagiabao" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lehagiabao&show_icons=true&locale=en" alt="lehagiabao" /></p>
+<p align="left">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lehagiabao&show_icons=true&locale=en&layout=compact" alt="lehagiabao" /></p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lehagiabao&show_icons=true&locale=en" alt="lehagiabao" />
+</p>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lehagiabao&bg_color=ffffff&color=2f86a6&line=3db2ff&point=2f86a6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
