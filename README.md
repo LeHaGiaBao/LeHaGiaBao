@@ -37,14 +37,12 @@
 
 
 <p align="left">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lehagiabao&show_icons=true&locale=en&layout=compact" alt="lehagiabao" /></p>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeHaGiaBao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=lehagiabao&show_icons=true&locale=en" alt="lehagiabao" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeHaGiaBao)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeHaGiaBao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lehagiabao&show_icons=true&locale=en&layout=compact" alt="lehagiabao" /></p>
 
 
 
