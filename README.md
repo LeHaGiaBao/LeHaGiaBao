@@ -37,8 +37,8 @@
 
 <p align="left">
 <a href="https://github.com/lehagiabao">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeHaGiaBao&layout=compact"/>
-  <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=lehagiabao&show_icons=true&"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeHaGiaBao&layout=compact"/>
+  <img height="190em"  src="https://github-readme-stats.vercel.app/api?username=lehagiabao&show_icons=true&"/>
 </a>
 </p>
 
