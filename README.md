@@ -1,10 +1,10 @@
 <p align="center">
   <img src="https://cdn.dribbble.com/users/600557/screenshots/3625204/media/48b74ed45987c6c6bf554b30f3afbd4f.gif" height="250"/>
 </p>
-
-<h1 align="center">Hi 👋, I'm Le Ha Gia Bao</h1>
 <hr>
+<h1 align="center">Hi 👋, I'm Le Ha Gia Bao</h1>
 <h3 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> Write code. Blow minds <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"></h3>
+<hr>
 <br>
 
 ### 👨🏻‍💻 &nbsp;About Me:
