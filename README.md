@@ -38,8 +38,7 @@
 </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lehagiabao)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lehagiabao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeHaGiaBao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeHaGiaBao)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lehagiabao&bg_color=ffffff&color=2f86a6&line=3db2ff&point=2f86a6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
