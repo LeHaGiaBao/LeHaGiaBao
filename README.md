@@ -35,13 +35,6 @@
 </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 
-<p align="left">
-<a href="https://github.com/lehagiabao">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeHaGiaBao&layout=compact"/>
-  <img height="190em"  src="https://github-readme-stats.vercel.app/api?username=lehagiabao&show_icons=true&"/>
-</a>
-</p>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lehagiabao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lehagiabao)](https://github.com/anuraghazra/github-readme-stats)
 
