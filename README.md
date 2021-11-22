@@ -6,6 +6,7 @@
 <h3 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> Write code. Blow minds <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"></h3>
 <br>
 
+
 ### 👨🏻‍💻 &nbsp;About Me:
 🎓 I’m currently learning at [University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology).<br>
 🔭 I'm working as a Front-end Developer at <a href="https://www.facebook.com/webdevstudios.org"> Webdev Studios </a>.\
@@ -24,6 +25,7 @@
 <a href="https://www.hackerearth.com/@lehagiabao0205" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@lehagiabao0205" height="30" width="40" /></a>
 <a href="https://codepen.io/lehagiabao" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="lehagiabao" height="30" width="40" /></a>
 
+
 ### 🛠 &nbsp;Languages and Tools:
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -39,3 +41,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeHaGiaBao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeHaGiaBao)](https://github.com/anuraghazra/github-readme-stats)
+
