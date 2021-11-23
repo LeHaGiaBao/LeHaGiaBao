@@ -11,7 +11,7 @@
 🎓 I’m currently learning at [University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology).<br>
 🔭 I'm working as a Front-end Developer at <a href="https://www.facebook.com/webdevstudios.org"> Webdev Studios </a>.\
 👨‍💻 I'm currently learning FullStack Web and Mobile Development.\
-✍️  In my free time, I pursue UI/UX Design as hobbies/side hustles.\
+✍️  In my free time, I pursue UI/UX Design as hobbies/side hustle.\
 🌱 I have basic knowledge in ```Web Development``` `Object-Oriented Programming` ```Data Structures and Algorithms``` ```UI/UX Design```     
  📫 Contact me via:   
 <a href="https://fb.com/lehagiabao0205" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lehagiabao0205" height="30" width="40"/></a>
