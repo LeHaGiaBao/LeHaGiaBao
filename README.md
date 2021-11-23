@@ -10,7 +10,7 @@
 ### 👨🏻‍💻 &nbsp;About Me:
 🎓 I’m currently learning at [University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology).<br>
 🔭 I'm working as a Front-end Developer at <a href="https://www.facebook.com/webdevstudios.org"> Webdev Studios </a>.\
-👨‍💻 I'm currently learning FullStack Web Development.\
+👨‍💻 I'm currently learning FullStack Web and Mobile Development.\
 ✍️  In my free time, I pursue UI/UX Design as hobbies/side hustles.\
 🌱 I have basic knowledge in ```Web Development``` `Object-Oriented Programming` ```Data Structures and Algorithms``` ```UI/UX Design```     
  📫 Contact me via:   
