@@ -39,5 +39,9 @@
 ![](https://github.com/LeHaGiaBao/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/LeHaGiaBao/github-stats/blob/master/generated/languages.svg)
 
+<a href="https://github.com/jstrieb/github-stats">
+
 ![](https://github.com/LeHaGiaBao/LeHaGiaBao/blob/master/generated/overview.svg)
 ![](https://github.com/LeHaGiaBao/LeHaGiaBao/blob/master/generated/languages.svg)
+
+</a>
