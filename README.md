@@ -38,3 +38,6 @@
 
 ![](https://github.com/LeHaGiaBao/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/LeHaGiaBao/github-stats/blob/master/generated/languages.svg)
+
+![](https://github.com/LeHaGiaBao/LeHaGiaBao/blob/master/generated/overview.svg)
+![](https://github.com/LeHaGiaBao/LeHaGiaBao/blob/master/generated/languages.svg)
