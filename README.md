@@ -48,21 +48,12 @@
 </div>
 
 ## <img src='./assets/Connect.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
-<p align="center">
-
   <a href="mailto:lehagiabao0205@gmail.com" >![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-  
   <a href="https://github.com/LeHaGiaBao" >![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
-  
   <a href="https://linkedin.com/in/lehagiabao" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-  
   <a href="https://www.facebook.com/lehagiabao0205/" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
-  
   <a href="https://www.instagram.com/le.ha.gia.bao/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-
   <a href="https://twitter.com/lehagiabao" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-
-<p> 
 
 <div align="center">
   🥰 Thanks for watching my profile! Have a nice day! 😘 <br/>
