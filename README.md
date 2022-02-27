@@ -5,7 +5,7 @@
 <h1 align="center">Hi <img src="./assets/Hello.gif" width="40px"></img>, I'm Le Ha Gia Bao</h1>
 <h3 align="center"><img src="./assets/Giphy.gif" width="35px"> Write code. Blow minds <img src="./assets/Giphy.gif" width="35px"></h3>
 
-## <img src="./assets/Developer.gif" width="50px"> ABOUT ME:
+## <img src="./assets/Developer.gif" width="60px"> ABOUT ME:
 - 🎓 I'm currently 2rd year student at **[University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://www.uit.edu.vn/)**
 - 📚 My major is **E-Commerce**
 - 👨‍💻 I'm working as a Front-end Developer at **<a href="https://www.facebook.com/webdevstudios.org"> Webdev Studios </a>**
@@ -34,7 +34,7 @@
 ### 👉 Tools
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
 
-## <img src="./assets/Star.gif" width="50px"> About Some Stats
+## <img src="./assets/Star.gif" width="60px"> About Some Stats
 <div align="center">
 <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api?username=LeHaGiaBao&show_icons=true&theme=algolia" alt="Le Ha Gia Bao's github stats" title="My statistics"/>
 <img align="top" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeHaGiaBao&layout=compact&langs_count=10&theme=algolia" alt="Le Ha Gia Bao's github most used languages" title="My most used languages"/>
@@ -43,7 +43,7 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=LeHaGiaBao&theme=react-dark"/>
 </div>
 
-## <img src='./assets/Connect.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
+## <img src='./assets/Connect.gif' width="90px"> For More Information, Please Check Out or Connect Me Via
   <a href="mailto:lehagiabao0205@gmail.com" >![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
   <a href="https://github.com/LeHaGiaBao" >![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
   <a href="https://linkedin.com/in/lehagiabao" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
