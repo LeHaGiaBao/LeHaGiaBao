@@ -48,7 +48,7 @@
 </div>
 
 ## <img src='./assets/Connect.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
-<p align="center">
+<div align="center">
 
   <a href="mailto:lehagiabao0205@gmail.com" >![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
   
@@ -62,7 +62,7 @@
 
   <a href="https://twitter.com/lehagiabao" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 
-<p> 
+</div> 
 
 <div align="center">
   🥰 Thanks for watching my profile! Have a nice day! 😘 <br/>
