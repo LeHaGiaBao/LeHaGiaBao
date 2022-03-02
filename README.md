@@ -7,12 +7,12 @@
 
 ## <img src="./assets/Developer.gif" width="60px"> About Me:
 - <img src="./assets/School.gif" width="25px"> I'm currently 2rd year student at **[University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://www.uit.edu.vn/)** 
-- <img src="./assets/earth.gif" width="25px"> My major is **E-Commerce**
+- <img src="./assets/Earth.gif" width="25px"> My major is **E-Commerce**
 - <img src="./assets/code.gif" width="25px"> I'm working as a Front-end Developer at **<a href="https://www.facebook.com/webdevstudios.org"> Webdev Studios </a>**
 - <img src="./assets/PC.gif" width="25px"> I'm focus on learning **Web and Mobile Development**
 - <img src="./assets/Rocket.gif" width="25px"> In my free time, I pursue **UI/UX Design**
 - <img src="./assets/Giphy.gif" width="25px"> I have basic knowledge in **```Web Development``` `Object-Oriented Programming` ```Data Structures and Algorithms```**
-- <img src="./assets/star.gif" width="25px"> My quote is ***"A million dreams are keeping me awake"*** 
+- <img src="./assets/Star.gif" width="25px"> My quote is ***"A million dreams are keeping me awake"*** 
 
 ## <img src="./assets/Tools.gif" width="50px"> Some Languages and Tools
 ### 👉 Programming languages
