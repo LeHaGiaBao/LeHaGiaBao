@@ -5,7 +5,7 @@
 <h1 align="center">Hi <img src="./assets/Hello.gif" width="40px"></img>, I'm Le Ha Gia Bao</h1>
 <h3 align="center"><img src="./assets/Giphy.gif" width="35px"> Write code. Blow minds <img src="./assets/Giphy.gif" width="35px"></h3>
 
-## <img src="./assets/Developer.gif" width="60px"> ABOUT ME:
+## <img src="./assets/Developer.gif" width="60px"> About Me:
 - 🎓 I'm currently 2rd year student at **[University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://www.uit.edu.vn/)**
 - 📚 My major is **E-Commerce**
 - 👨‍💻 I'm working as a Front-end Developer at **<a href="https://www.facebook.com/webdevstudios.org"> Webdev Studios </a>**
