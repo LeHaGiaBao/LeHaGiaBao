@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./assets/Background.gif" height="350"/>
 </p>
-<hr/>
+<img src='./assets/Divider.gif>
 <h1 align="center">Hi <img src="./assets/Hello.gif" width="40px"></img>, I'm Le Ha Gia Bao</h1>
 <h3 align="center"><img src="./assets/Giphy.gif" width="35px"> Write code. Blow minds <img src="./assets/Giphy.gif" width="35px"></h3>
 
