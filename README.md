@@ -1,17 +1,18 @@
 <p align="center">
   <img src="./assets/Background.gif" height="350"/>
+  <img src="./assets/Divider.gif"> 
 </p>
-<img src='./assets/Divider.gif>
-<h1 align="center">Hi <img src="./assets/Hello.gif" width="40px"></img>, I'm Le Ha Gia Bao</h1>
-<h3 align="center"><img src="./assets/Giphy.gif" width="35px"> Write code. Blow minds <img src="./assets/Giphy.gif" width="35px"></h3>
+<h1 align="center">Hi <img src="./assets/Hello.gif" width="50px"></img>, I'm Le Ha Gia Bao</h1>
+<h2 align="center"><img src="./assets/Designer.gif" width="40px"> Write code. Blow minds <img src="./assets/Designer.gif" width="40px"></h2>
 
 ## <img src="./assets/Developer.gif" width="60px"> About Me:
-- 🎓 I'm currently 2rd year student at **[University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://www.uit.edu.vn/)**
-- 📚 My major is **E-Commerce**
-- 👨‍💻 I'm working as a Front-end Developer at **<a href="https://www.facebook.com/webdevstudios.org"> Webdev Studios </a>**
-- 🔭 I'm focus on learning **Web and Mobile Development**
-- ✍️  In my free time, I pursue **UI/UX Design**
-- 🌱 I have basic knowledge in **```Web Development``` `Object-Oriented Programming` ```Data Structures and Algorithms```**
+- <img src="./assets/School.gif" width="25px"> I'm currently 2rd year student at **[University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://www.uit.edu.vn/)** 
+- <img src="./assets/earth.gif" width="25px"> My major is **E-Commerce**
+- <img src="./assets/code.gif" width="25px"> I'm working as a Front-end Developer at **<a href="https://www.facebook.com/webdevstudios.org"> Webdev Studios </a>**
+- <img src="./assets/PC.gif" width="25px"> I'm focus on learning **Web and Mobile Development**
+- <img src="./assets/Rocket.gif" width="25px"> In my free time, I pursue **UI/UX Design**
+- <img src="./assets/Giphy.gif" width="25px"> I have basic knowledge in **```Web Development``` `Object-Oriented Programming` ```Data Structures and Algorithms```**
+- <img src="./assets/star.gif" width="25px"> My quote is ***"A million dreams are keeping me awake"*** 
 
 ## <img src="./assets/Tools.gif" width="50px"> Some Languages and Tools
 ### 👉 Programming languages
@@ -34,7 +35,7 @@
 ### 👉 Tools
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
 
-## <img src="./assets/Star.gif" width="60px"> About Some Stats
+## <img src="./assets/Stats.gif" width="60px"> About Some Stats
 <div align="center">
 <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api?username=LeHaGiaBao&show_icons=true&theme=algolia" alt="Le Ha Gia Bao's github stats" title="My statistics"/>
 <img align="top" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeHaGiaBao&layout=compact&langs_count=10&theme=algolia" alt="Le Ha Gia Bao's github most used languages" title="My most used languages"/>
@@ -57,6 +58,10 @@
 </div> 
 
 <div align="center">
+  <h3>
   🥰 Thanks for watching my profile! Have a nice day! 😘 <br/>
   &copy; 2022 Le Ha Gia Bao
+  </h3>
+  <img src="./assets/Divider.gif">
+  <img src="./assets/Mario_Gameplay.gif">
 </div>
