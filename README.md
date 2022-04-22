@@ -46,8 +46,6 @@
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white) ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c) ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white) ![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white) 
 
 ## <img src="./assets/Stats.gif" width="60px"> About Some Stats
-![](https://github.com/LeHaGiaBao/git-stats/blob/master/generated/overview.svg)
-![](https://github.com/LeHaGiaBao/git-stats/blob/master/generated/languages.svg)
 <div align="center">
 <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api?username=LeHaGiaBao&show_icons=true&theme=algolia" alt="Le Ha Gia Bao's github stats" title="My statistics"/>
 <img align="top" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeHaGiaBao&layout=compact&langs_count=10&theme=algolia" alt="Le Ha Gia Bao's github most used languages" title="My most used languages"/>
