@@ -2,19 +2,19 @@
   <img src="./assets/Background.gif" height="350"/>
   <img src="./assets/Divider.gif"> 
 </p>
-<h1 align="center">Hi <img src="./assets/Hello.gif" width="50px"></img>, I'm Le Ha Gia Bao</h1>
-<h2 align="center"><img src="./assets/Designer.gif" width="40px"> Write code. Blow minds <img src="./assets/Designer.gif" width="40px"></h2>
+<h1 align="center">Hi <img src="./assets/Hello.gif" width="50"></img>, I'm Le Ha Gia Bao</h1>
+<h2 align="center"><img src="./assets/Designer.gif" width="40"> Write code. Blow minds <img src="./assets/Designer.gif" width="40"></h2>
 
-## <img src="./assets/Developer.gif" width="60px"> About Me:
-- <img src="./assets/School.gif" width="25px"> I'm currently 2rd year student at **[University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://www.uit.edu.vn/)** 
-- <img src="./assets/Earth.gif" width="25px"> My major is **E-Commerce**
-- <img src="./assets/code.gif" width="25px"> I'm working as a Front-end Developer at **<a href="https://www.facebook.com/webdevstudios.org"> Webdev Studios </a>**
-- <img src="./assets/PC.gif" width="25px"> I'm focus on learning **Web and Mobile Development**
-- <img src="./assets/Rocket.gif" width="25px"> In my free time, I pursue **UI/UX Design**
-- <img src="./assets/Giphy.gif" width="25px"> I have basic knowledge in **```Web Development``` `Object-Oriented Programming` ```Data Structures and Algorithms```**
-- <img src="./assets/Star.gif" width="25px"> My quote is ***"A million dreams are keeping me awake"*** 
+## <img src="./assets/Developer.gif" width="60"> About Me:
+- <img src="./assets/School.gif" width="25"> I'm currently 2rd year student at **[University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://www.uit.edu.vn/)** 
+- <img src="./assets/Earth.gif" width="25"> My major is **E-Commerce**
+- <img src="./assets/code.gif" width="25"> I'm working as a Front-end Developer at **<a href="https://www.facebook.com/webdevstudios.org"> Webdev Studios </a>**
+- <img src="./assets/PC.gif" width="25"> I'm focus on learning **Web and Mobile Development**
+- <img src="./assets/Rocket.gif" width="25"> In my free time, I pursue **UI/UX Design**
+- <img src="./assets/Giphy.gif" width="25"> I have basic knowledge in **```Web Development``` `Object-Oriented Programming` ```Data Structures and Algorithms```**
+- <img src="./assets/Star.gif" width="25"> My quote is ***"A million dreams are keeping me awake"*** 
 
-## <img src="./assets/Tools.gif" width="50px"> Some Languages and Tools
+## <img src="./assets/Tools.gif" width="50"> Some Languages and Tools
 ### 👉 Programming languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
