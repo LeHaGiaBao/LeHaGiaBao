@@ -54,7 +54,7 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=LeHaGiaBao&theme=react-dark"/>
 </div>
 
-## <img src='./assets/Connect.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
+## <img src='./assets/Connect.gif' width="80"> For More Information, Please Check Out or Connect Me Via
 <div align="center">
   
   <a href="mailto:lehagiabao0205@gmail.com" >![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
