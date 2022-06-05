@@ -49,6 +49,11 @@
 <div align="center">
 <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api?username=LeHaGiaBao&show_icons=true&theme=algolia" alt="Le Ha Gia Bao's github stats" title="My statistics"/>
 <img align="top" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeHaGiaBao&layout=compact&langs_count=10&theme=algolia" alt="Le Ha Gia Bao's github most used languages" title="My most used languages"/>
+
+<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LeHaGiaBao&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 </div>
 <div align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=LeHaGiaBao&theme=react-dark"/>
