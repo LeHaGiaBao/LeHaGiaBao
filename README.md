@@ -11,7 +11,7 @@
 - <img src="./assets/code.gif" width="25"> I'm working as a Front-end Developer at **<a href="https://www.facebook.com/webdevstudios.org"> Webdev Studios </a>**
 - <img src="./assets/PC.gif" width="25"> I'm focus on learning **Web and Mobile Development**
 - <img src="./assets/Rocket.gif" width="25"> In my free time, I pursue **UI/UX Design**
-- <img src="./assets/Giphy.gif" width="25"> I have basic knowledge in **```Frontend Development``` ```Backend Development``` ```RESTful API``` ```Object-Oriented Programming``` ```Data Structures and Algorithms```**
+- <img src="./assets/Giphy.gif" width="25"> I have basic knowledge in **```Frontend Development``` ```Backend Development``` ```RESTful API``` ```Object Oriented Programming``` ```Data Structures and Algorithms```**
 - <img src="./assets/Star.gif" width="25"> My quote is ***"A million dreams are keeping me awake"*** 
 
 ## <img src="./assets/Tools.gif" width="50"> Some Languages and Tools
