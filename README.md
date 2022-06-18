@@ -49,7 +49,7 @@
 - ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
 - ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white) ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white) 
 
-## <img src="./assets/Stats.gif" width="60"> About Some Stats
+## <img src="./assets/Stats.gif" width="60"> ***About Some Stats***
 <div align="center">
 <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api?username=LeHaGiaBao&show_icons=true&theme=algolia" alt="Le Ha Gia Bao's github stats" title="My statistics"/>
 <img align="top" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeHaGiaBao&layout=compact&langs_count=10&theme=algolia" alt="Le Ha Gia Bao's github most used languages" title="My most used languages"/>
@@ -60,10 +60,10 @@
 
 </div>
 <div align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=LeHaGiaBao&theme=react-dark"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=LeHaGiaBao&theme=react-dark"/>
 </div>
 
-## <img src='./assets/Connect.gif' width="80"> For More Information, Please Check Out or Connect Me Via
+## <img src='./assets/Connect.gif' width="80"> ***For More Information, Please Check Out or Connect Me Via***
 <div align="center">
 
   <a href="mailto:lehagiabao0205@gmail.com" >![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
@@ -80,7 +80,6 @@
   <a href="https://dribbble.com/lehagiabao" target="_blank">![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)</a>
   
 </div> 
-
 
 <div align="center">
   <h3>
