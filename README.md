@@ -8,7 +8,7 @@
 ## <img src="./assets/Developer.gif" width="60"> ***About Me***
 - <img src="./assets/School.gif" width="25"> I'm currently 2nd year student at **[University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://www.uit.edu.vn/)** 
 - <img src="./assets/Earth.gif" width="25"> My major is **E-Commerce**
-- <img src="./assets/code.gif" width="25"> I'm working as a Front-end Developer at **<a href="https://www.facebook.com/webdevstudios.org"> Webdev Studios </a>**
+- <img src="./assets/code.gif" width="25"> I'm working as a Frontend Developer at **<a href="https://www.facebook.com/webdevstudios.org"> Webdev Studios </a>**
 - <img src="./assets/PC.gif" width="25"> I'm focus on learning **Web and Mobile Development**
 - <img src="./assets/Rocket.gif" width="25"> In my free time, I pursue **UI/UX Design**
 - <img src="./assets/Giphy.gif" width="25"> I have basic knowledge in **```Frontend Development``` ```Backend Development``` ```RESTful API``` ```Object Oriented Programming``` ```Data Structures and Algorithms```**
@@ -74,12 +74,7 @@
   <a href="https://linkedin.com/in/lehagiabao" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
   <a href="https://www.facebook.com/lehagiabao0205/" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
   <a href="https://www.instagram.com/le.ha.gia.bao/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-  <a href="https://twitter.com/lehagiabao" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-  <a href="https://www.hackerrank.com/LeHaGiaBao?hr_r=1" target="_blank">![HackerRank](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
-  <a href="https://leetcode.com/LeHaGiaBao/" target="_blank">![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)</a>
-  <a href="https://www.hackerearth.com/@lehagiabao0205" target="_blank">![HackerEarth](https://img.shields.io/badge/HackerEarth-2C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=white)</a>
   <a href="https://www.behance.net/lehagiabao" target="_blank">![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)</a>
-  <a href="https://dribbble.com/lehagiabao" target="_blank">![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)</a>
   
 </div> 
 
