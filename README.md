@@ -6,7 +6,7 @@
 <h2 align="center"><img src="./assets/Designer.gif" width="40"> Write code. Blow minds <img src="./assets/Designer.gif" width="40"></h2>
 
 ## <img src="./assets/Developer.gif" width="60"> ***About Me***
-- <img src="./assets/School.gif" width="25"> I'm currently 2nd year student at **[University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://www.uit.edu.vn/)** 
+- <img src="./assets/School.gif" width="25"> I'm currently 3rd year student at **[University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://www.uit.edu.vn/)** 
 - <img src="./assets/Earth.gif" width="25"> My major is **E-Commerce**
 - <img src="./assets/code.gif" width="25"> I'm working as a Frontend Developer at **<a href="https://www.facebook.com/webdevstudios.org"> Webdev Studios </a>**
 - <img src="./assets/PC.gif" width="25"> I'm focus on learning **Web and Mobile Development**
