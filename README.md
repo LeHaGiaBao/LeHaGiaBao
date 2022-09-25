@@ -84,3 +84,5 @@
   <img src="./assets/Divider.gif">
   <img src="./assets/Mario_Gameplay.gif">
 </div>
+
+![Snake animation](https://github.com/LeHaGiaBao/LeHaGiaBao/blob/output/github-contribution-grid-snake.svg)
