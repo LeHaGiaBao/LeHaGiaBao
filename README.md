@@ -7,9 +7,9 @@
 
 ## <img src="./assets/Developer.gif" width="60"> **_About Me_**
 
--    <img src="./assets/School.gif" width="25"> I'm currently 3rd year student at University of Information Technology - Vietnam National University (UIT - VNU-HCM)   <a href="https://www.uit.edu.vn/" target="blank"><img align="center" src="https://tuoitre.uit.edu.vn/wp-content/uploads/2015/07/logo-uit.png" alt="UIT" height="30" width="40" />
--    <img src="./assets/Earth.gif" width="25"> My major is E-Commerce   <a href="https://httt.uit.edu.vn/" target="blank"><img align="center" src="https://httt.uit.edu.vn/wp-content/uploads/2021/06/httt-logo.png" alt="UIT" height="30" width="30" />
--    <img src="./assets/code.gif" width="25"> I'm working as a Frontend Developer at Webdev Studios   <a href="https://www.facebook.com/webdevstudios.org" target="blank"><img align="center" src="https://tuyensinh.uit.edu.vn/sites/default/files/uploads/images/thumbs/201912/pasted_image_0.png" alt="UIT" height="30" width="30" />
+-    <img src="./assets/School.gif" width="25"> I'm currently 3rd year student at **[University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://www.uit.edu.vn/)**   <a href="https://www.uit.edu.vn/" target="blank"><img align="center" src="https://tuoitre.uit.edu.vn/wp-content/uploads/2015/07/logo-uit.png" alt="UIT" height="30" width="40" />
+-    <img src="./assets/Earth.gif" width="25"> My major is **E-Commerce**   <a href="https://httt.uit.edu.vn/" target="blank"><img align="center" src="https://httt.uit.edu.vn/wp-content/uploads/2021/06/httt-logo.png" alt="UIT" height="30" width="30" />
+-    <img src="./assets/code.gif" width="25"> I'm working as a Frontend Developer at **<a href="https://www.facebook.com/webdevstudios.org"> Webdev Studios </a>**   <a href="https://www.facebook.com/webdevstudios.org" target="blank"><img align="center" src="https://tuyensinh.uit.edu.vn/sites/default/files/uploads/images/thumbs/201912/pasted_image_0.png" alt="UIT" height="30" width="30" />
 -    <img src="./assets/PC.gif" width="25"> I'm focus on learning **Web and Mobile Development**
 -    <img src="./assets/Rocket.gif" width="25"> In my free time, I pursue **UI/UX Design**
 -    <img src="./assets/Giphy.gif" width="25"> I have basic knowledge in **`Frontend Development` `Backend Development` `RESTful API` `Object Oriented Programming` `Data Structures and Algorithms`**
