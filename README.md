@@ -60,7 +60,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LeHaGiaBao&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=LeHaGiaBao&theme=react-dark)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeHaGiaBao&theme=react-dark)](https://github.com/LeHaGiaBao/github-readme-activity-graph)
 
 ## <img src='./assets/Connect.gif' width="80"> **_For More Information, Please Check Out or Connect Me Via_**
 
