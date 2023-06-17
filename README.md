@@ -17,38 +17,60 @@
 
 ## <img src="./assets/Tools.gif" width="50"> **_Some Technologies And Tools_**
 
-### 👉 Languages
-
--    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
--    ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-### 👉 Frontend
-
--    ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white)
--    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next JS](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white) ![React Router](https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white)
--    ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white) ![Ant-Design](https://img.shields.io/badge/Ant%20Design-0170FE.svg?style=for-the-badge&logo=Ant-Design&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=whitehttps://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white) ![Chakra](https://img.shields.io/badge/Chakra%20UI-319795.svg?style=for-the-badge&logo=Chakra-UI&logoColor=white)
-
-### 👉 Backend
-
--    ![NodeJS](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-
-### 👉 Database
-
--    ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
--    ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white)
-
-### 👉 Version Control & Hosting & Package Manager
-
--    ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC.svg?style=for-the-badge&logo=Bitbucket&logoColor=white)
--    ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
--    ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=Yarn&logoColor=white)
-
-### 👉 IDEs/Editors & Tools
-
--    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white)
--    ![Diagrams.net](https://img.shields.io/badge/diagrams.net-F08705.svg?style=for-the-badge&logo=diagramsdotnet&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Gitkaren](https://img.shields.io/badge/GitKraken-179287.svg?style=for-the-badge&logo=GitKraken&logoColor=white)
--    ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
--    ![Wix](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+```JSON
+{
+  "Languages": {
+    "Main": ["JavaScript", "TypeScript", "Markdown"],
+    "Basic": ["PHP", "Dart"],
+    "Novice": ["C", "C++", "Python", "Golang"],
+  },
+  "Frontend": {
+    "Main": ["HTML", "CSS", "ReactJS", "NextJS"],
+    "Basic": ["jQuery"],
+    "CSS Framework": ["TailwindCSS", "Bootstrap"],
+    "UI": ["Ant Design", "Material UI", "Reactstrap", "Chakra UI", "Styled Components"],
+    "Library": ["Redux", "React Router", "Axios"],
+  },
+  "Backend": {
+    "Main": ["NodeJS", "ExpressJS", "JWT"],
+    "Basic": ["Laravel"],
+  },
+  "Mobile": {
+    "Basic": ["Flutter"],
+  },
+  "Database": {
+    "Main": ["MySQL", "MongoDB"],
+    "Basic": ["Microsoft SQL Server", "Firebase", "Supabase"],
+  },
+  "Version Control": ["Git", "GitHub", "GitLab", "Bitbucket"],
+  "Package Manager": ["NPM", "Yarn", "PNPM"],
+  "Deploy": {
+    "Main": ["GitHub Pages", "Vercel", "Netlify", "Heroku"],
+    "Basic": ["Glitch", "Railway", "Render"],
+  },
+  "IDEs/Editors": {
+    "Main": ["Visual Studio Code"],
+    "Basic": ["Visual Studio", "Android Studio", "Sublime Text"],
+    "Online": ["Gitpod", "CodeSandBox", "CodePen", "Replit"],
+  },
+  "Tools": {
+    "Main": ["Postman", "Gitkraken", "Swagger", "XAMPP"],
+    "Database": ["MySQL Workbench", "MongoDB Compass"],
+    "Management": ["Notion", "Trello", "Obsidian", "Todoist"],
+    "Planning": ["Draw.io", "StarUML", "Miro", "Camunda"],
+    "Support": ["Prettier", "Eslint", "Gitignore"],
+  },
+  "NoCode": ["Wix", "Wordpress"],
+  "Design": {
+    "Main": ["Figma", "Canva", "iMovie", "Capcut"],
+    "Adobe": ["Photoshop", "Illustrator", "Lightroom", "Premiere"],
+  },
+  "Office": {
+    "Google": ["Docs", "Sheets" "Slides", "Forms"],
+    "Microsoft": ["Word", "Excel", "Powerpoint"],
+  },
+}
+```
 
 ## <img src="./assets/Stats.gif" width="60"> **_About Some Statistics_**
 
