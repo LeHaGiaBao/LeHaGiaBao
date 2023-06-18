@@ -22,7 +22,7 @@
   "Languages": {
     "Main": ["JavaScript", "TypeScript", "Markdown"],
     "Basic": ["PHP", "Dart"],
-    "Novice": ["C", "C++", "Python", "Golang"],
+    "Novice": ["C", "C++", "Python", "Java", "Golang"],
   },
   "Frontend": {
     "Main": ["HTML", "CSS", "ReactJS", "NextJS"],
@@ -60,9 +60,9 @@
     "Planning": ["Draw.io", "StarUML", "Miro", "Camunda"],
     "Support": ["Prettier", "Eslint", "Gitignore"],
   },
-  "NoCode": ["Wix", "Wordpress"],
   "Design": {
     "Main": ["Figma", "Canva", "iMovie", "Capcut"],
+    "NoCode": ["Wix", "Wordpress"],
     "Adobe": ["Photoshop", "Illustrator", "Lightroom", "Premiere"],
   },
   "Office": {
