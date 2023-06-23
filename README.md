@@ -25,7 +25,7 @@
     "Novice": ["C", "C++", "Python", "Java", "Golang"],
   },
   "Frontend": {
-    "Main": ["HTML", "CSS", "ReactJS", "NextJS"],
+    "Main": ["HTML", "CSS", "Sass", "ReactJS", "NextJS"],
     "Basic": ["jQuery"],
     "CSS Framework": ["TailwindCSS", "Bootstrap"],
     "UI": ["Ant Design", "Material UI", "Reactstrap", "Chakra UI", "Styled Components"],
