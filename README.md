@@ -9,7 +9,7 @@
 
 -    <img src="./assets/School.gif" width="25"> I'm currently final year student at **[University of Information Technology - Vietnam National University - Ho Chi Minh City](https://www.uit.edu.vn/)**
 -    <img src="./assets/Earth.gif" width="25"> My major is **[E-Commerce](https://httt.uit.edu.vn/)**
--    <img src="./assets/code.gif" width="25"> I'm working as a Frontend Developer at **<a href="https://www.facebook.com/webdevstudios.org"> Webdev Studios </a>** and **<a href="https://www.spiraledge.com/"> Spiraledge Vietnam </a>**
+-    <img src="./assets/code.gif" width="25"> I'm working as a Frontend Developer at **<a href="https://www.facebook.com/webdevstudios.org"> Webdev Studios </a>**
 -    <img src="./assets/PC.gif" width="25"> I'm focus on learning **Web and Mobile Development**
 -    <img src="./assets/Rocket.gif" width="25"> In my free time, I pursue **UI/UX Design**
 -    <img src="./assets/Giphy.gif" width="25"> I have basic knowledge in **`Frontend Development` `Backend Development` `RESTful API` `Object Oriented Programming` `Data Structures and Algorithms`**
@@ -30,6 +30,7 @@
     "CSS Framework": ["TailwindCSS", "Bootstrap"],
     "UI": ["Ant Design", "Material UI", "Reactstrap", "Chakra UI", "Styled Components"],
     "Library": ["Redux", "React Router", "Axios"],
+    "Novice": ["Angular", "RxJS"],
   },
   "Backend": {
     "Main": ["NodeJS", "ExpressJS", "JWT"],
