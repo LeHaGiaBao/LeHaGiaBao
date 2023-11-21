@@ -9,7 +9,7 @@
 
 -    <img src="./assets/School.gif" width="25"> I'm currently final year student at **[University of Information Technology - Vietnam National University - Ho Chi Minh City](https://www.uit.edu.vn/)**
 -    <img src="./assets/Earth.gif" width="25"> My major is **[E-Commerce](https://httt.uit.edu.vn/)**
--    <img src="./assets/code.gif" width="25"> I'm working as a Frontend Developer at **<a href="https://www.facebook.com/webdevstudios.org"> Webdev Studios </a>**
+<!-- -    <img src="./assets/code.gif" width="25"> I'm working as a Frontend Developer at **<a href="https://www.facebook.com/webdevstudios.org"> Webdev Studios </a>** -->
 -    <img src="./assets/PC.gif" width="25"> I'm focus on learning **Web and Mobile Development**
 -    <img src="./assets/Rocket.gif" width="25"> In my free time, I pursue **UI/UX Design**
 -    <img src="./assets/Giphy.gif" width="25"> I have basic knowledge in **`Frontend Development` `Backend Development` `RESTful API` `Object Oriented Programming` `Data Structures and Algorithms`**
@@ -75,13 +75,13 @@
 
 ## <img src="./assets/Stats.gif" width="60"> **_About Some Statistics_**
 
-<div align="center">
+<!-- <div align="center">
 <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api?username=LeHaGiaBao&show_icons=true&theme=algolia" alt="Le Ha Gia Bao's github stats" title="My statistics"/>
 <img align="top" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeHaGiaBao&layout=compact&langs_count=10&theme=algolia" alt="Le Ha Gia Bao's github most used languages" title="My most used languages"/>
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LeHaGiaBao&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LeHaGiaBao&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeHaGiaBao&theme=react-dark)](https://github.com/LeHaGiaBao/github-readme-activity-graph)
 
