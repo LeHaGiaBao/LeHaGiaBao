@@ -22,7 +22,6 @@
   "Languages": {
     "Main": ["JavaScript", "TypeScript", "Markdown"],
     "Basic": ["PHP", "Dart"],
-    "Novice": ["C", "C++", "Python", "Java", "Golang"],
   },
   "Frontend": {
     "Main": ["HTML", "CSS", "Sass", "ReactJS", "NextJS"],
@@ -30,14 +29,13 @@
     "CSS Framework": ["TailwindCSS", "Bootstrap"],
     "UI": ["Ant Design", "Material UI", "Reactstrap", "Chakra UI", "Styled Components"],
     "Library": ["Redux", "React Router", "Axios"],
-    "Novice": ["Angular", "RxJS"],
   },
   "Backend": {
     "Main": ["NodeJS", "ExpressJS", "JWT"],
     "Basic": ["Laravel"],
   },
   "Mobile": {
-    "Basic": ["Flutter"],
+    "Basic": ["React Native", "Flutter"],
   },
   "Database": {
     "Main": ["MySQL", "MongoDB"],
@@ -57,18 +55,13 @@
   "Tools": {
     "Main": ["Postman", "Gitkraken", "Swagger", "XAMPP"],
     "Database": ["MySQL Workbench", "MongoDB Compass"],
-    "Management": ["Notion", "Trello", "Obsidian", "Todoist"],
     "Planning": ["Draw.io", "StarUML", "Miro", "Camunda"],
     "Support": ["Prettier", "Eslint", "Gitignore"],
   },
   "Design": {
-    "Main": ["Figma", "Canva", "iMovie", "Capcut"],
+    "Main": ["Figma", "Canva"],
     "NoCode": ["Wix", "Wordpress"],
     "Adobe": ["Photoshop", "Illustrator", "Lightroom", "Premiere"],
-  },
-  "Office": {
-    "Google": ["Docs", "Sheets" "Slides", "Forms"],
-    "Microsoft": ["Word", "Excel", "Powerpoint"],
   },
 }
 ```
