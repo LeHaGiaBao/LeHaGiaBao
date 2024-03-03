@@ -9,10 +9,10 @@
 
 -    <img src="./assets/School.gif" width="25"> I'm currently final year student at **[University of Information Technology - Vietnam National University - Ho Chi Minh City](https://www.uit.edu.vn/)**
 -    <img src="./assets/Earth.gif" width="25"> My major is **[E-Commerce](https://httt.uit.edu.vn/)**
-<!-- -    <img src="./assets/code.gif" width="25"> I'm working as a Frontend Developer at **<a href="https://www.facebook.com/webdevstudios.org"> Webdev Studios </a>** -->
+-    <img src="./assets/code.gif" width="25"> I'm working as a Mobile Developer at **<a href="https://www.droppii.com/">Droppii</a>**
 -    <img src="./assets/PC.gif" width="25"> I'm focus on learning **Web and Mobile Development**
 -    <img src="./assets/Rocket.gif" width="25"> In my free time, I pursue **UI/UX Design**
--    <img src="./assets/Giphy.gif" width="25"> I have basic knowledge in **`Frontend Development` `Backend Development` `RESTful API` `Object Oriented Programming` `Data Structures and Algorithms`**
+-    <img src="./assets/Giphy.gif" width="25"> I have a knowledge in **`Frontend Development` `Backend Development` `Mobile Development` `RESTful API` `Object Oriented Programming` `Data Structures and Algorithms`**
 -    <img src="./assets/Star.gif" width="25"> My quote is **_"A million dreams are keeping me awake"_**
 
 ## <img src="./assets/Tools.gif" width="50"> **_Some Technologies And Tools_**
@@ -20,19 +20,17 @@
 ```JSON
 {
   "Languages": {
-    "Main": ["JavaScript", "TypeScript", "Markdown"],
-    "Basic": ["PHP", "Dart"],
+    "Main": ["JavaScript", "TypeScript", "Markdown", "Java"],
   },
   "Frontend": {
     "Main": ["HTML", "CSS", "Sass", "ReactJS", "NextJS"],
-    "Basic": ["jQuery"],
     "CSS Framework": ["TailwindCSS", "Bootstrap"],
     "UI": ["Ant Design", "Material UI", "Reactstrap", "Chakra UI", "Styled Components"],
-    "Library": ["Redux", "React Router", "Axios"],
+    "Library": ["Redux", "React Router", "Axios", "React Query"],
   },
   "Backend": {
     "Main": ["NodeJS", "ExpressJS", "JWT"],
-    "Basic": ["Laravel"],
+    "Basic": ["Spring", "Laravel"],
   },
   "Mobile": {
     "Basic": ["React Native", "Flutter"],
@@ -41,15 +39,18 @@
     "Main": ["MySQL", "MongoDB"],
     "Basic": ["Microsoft SQL Server", "Firebase", "Supabase"],
   },
-  "Version Control": ["Git", "GitHub", "GitLab", "Bitbucket"],
+}
+```
+
+  <!-- "Version Control": ["Git", "GitHub", "GitLab", "Bitbucket"],
   "Package Manager": ["NPM", "Yarn", "PNPM"],
   "Deploy": {
     "Main": ["GitHub Pages", "Vercel", "Netlify", "Heroku"],
     "Basic": ["Glitch", "Railway", "Render"],
   },
   "IDEs/Editors": {
-    "Main": ["Visual Studio Code"],
-    "Basic": ["Visual Studio", "Android Studio", "Sublime Text"],
+    "Main": ["Visual Studio Code", "Android Studio", "Xcode"],
+    "Basic": ["Visual Studio", , "Sublime Text"],
     "Online": ["Gitpod", "CodeSandBox", "CodePen", "Replit"],
   },
   "Tools": {
@@ -62,9 +63,7 @@
     "Main": ["Figma", "Canva"],
     "NoCode": ["Wix", "Wordpress"],
     "Adobe": ["Photoshop", "Illustrator", "Lightroom", "Premiere"],
-  },
-}
-```
+  }, -->
 
 ## <img src="./assets/Stats.gif" width="60"> **_About Some Statistics_**
 
@@ -95,11 +94,11 @@
 <div align="center">
   <h3>
   🥰 Thanks for watching my profile! Have a nice day! 😘 <br/>
-  &copy; 2023 Le Ha Gia Bao
+  &copy; 2024 Le Ha Gia Bao
   </h3>
   <img src="./assets/Divider.gif">
   <img src="./assets/Mario_Gameplay.gif">
 
-![Snake animation](https://github.com/LeHaGiaBao/LeHaGiaBao/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/LeHaGiaBao/LeHaGiaBao/blob/output/github-contribution-grid-snake.svg) -->
 
 </div>
