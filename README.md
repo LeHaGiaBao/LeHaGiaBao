@@ -7,7 +7,7 @@
 
 ## <img src="./assets/Developer.gif" width="60"> **_About Me_**
 
-<img src="./assets/code.gif" width="25"> I am currently working as a Software Engineer in the fields of Frontend Development and Mobile Development
+<img src="./assets/code.gif" width="25"> I am currently working as a **Software Engineer** in the fields of **Frontend Development** and **Mobile Development**
 
 <img src="./assets/School.gif" width="25"> I graduated with a Bachelor's degree in E-commerce from the **[University of Information Technology - Vietnam National University - Ho Chi Minh City](https://www.uit.edu.vn/)**
 
