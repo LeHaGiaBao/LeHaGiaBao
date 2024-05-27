@@ -7,20 +7,26 @@
 
 ## <img src="./assets/Developer.gif" width="60"> **_About Me_**
 
--    <img src="./assets/School.gif" width="25"> I'm currently final year student at **[University of Information Technology - Vietnam National University - Ho Chi Minh City](https://www.uit.edu.vn/)**
--    <img src="./assets/Earth.gif" width="25"> My major is **[E-Commerce](https://httt.uit.edu.vn/)**
--    <img src="./assets/code.gif" width="25"> I'm working as a Mobile Developer at **<a href="https://www.droppii.com/">Droppii</a>**
--    <img src="./assets/PC.gif" width="25"> I'm focus on learning **Web and Mobile Development**
--    <img src="./assets/Rocket.gif" width="25"> In my free time, I pursue **UI/UX Design**
--    <img src="./assets/Giphy.gif" width="25"> I have a knowledge in **`Frontend Development` `Backend Development` `Mobile Development` `RESTful API` `Object Oriented Programming` `Data Structures and Algorithms`**
--    <img src="./assets/Star.gif" width="25"> My quote is **_"A million dreams are keeping me awake"_**
+<img src="./assets/code.gif" width="25"> I am currently working as a Software Engineer in the fields of Frontend Development and Mobile Development
+
+<img src="./assets/School.gif" width="25"> I graduated with a Bachelor's degree in E-commerce from the **[University of Information Technology - Vietnam National University - Ho Chi Minh City](https://www.uit.edu.vn/)**
+
+<img src="./assets/PC.gif" width="25"> I'm focus on learning **Web and Mobile Development**
+
+<img src="./assets/Rocket.gif" width="25"> I want to improve my skills to become a **Fullstack Software Engineer**
+
+<img src="./assets/Earth.gif" width="25">   In my free time, I pursue **UI/UX Design**
+
+<img src="./assets/Giphy.gif" width="25"> I have a knowledge in **`Frontend Development` `Mobile Development` `Backend Development` `RESTful API` `Object Oriented Programming` `Data Structures and Algorithms`**
+
+<img src="./assets/Star.gif" width="25"> My quote is **_"A million dreams are keeping me awake"_**
 
 ## <img src="./assets/Tools.gif" width="50"> **_Some Technologies And Tools_**
 
 ```JSON
 {
   "Languages": {
-    "Main": ["JavaScript", "TypeScript", "Markdown", "Java"],
+    "Main": ["JavaScript", "TypeScript", "Java", "Markdown"],
   },
   "Frontend": {
     "Main": ["HTML", "CSS", "Sass", "ReactJS", "NextJS"],
@@ -33,7 +39,7 @@
     "Basic": ["Spring", "Laravel"],
   },
   "Mobile": {
-    "Basic": ["React Native", "Flutter"],
+    "Basic": ["React Native", "Ionic Framework"],
   },
   "Database": {
     "Main": ["MySQL", "MongoDB"],
