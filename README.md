@@ -41,7 +41,7 @@
     "Main": ["Git", "GitHub", "GitLab"],
   },
   "Tools": {
-    "Main": ["VS Code", "Xcode", "Android Studio", "Android Studio", "Postman", "Swagger", "Figma", ],
+    "Main": ["VS Code", "Xcode", "Android Studio", "Android Studio", "Postman", "Swagger", "Figma"],
   },
 }
 ```
