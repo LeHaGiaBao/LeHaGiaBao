@@ -7,7 +7,7 @@
 
 ## <img src="./assets/Developer.gif" width="60"> **_About Me_**
 
-<img src="./assets/code.gif" width="25"> I am currently working as a **Software Engineer** in the fields of **Frontend Development** and **Mobile Development**
+<img src="./assets/code.gif" width="25"> I am currently working as a **Software Engineer** in the fields of **Mobile Development** and **Frontend Development**
 
 <img src="./assets/School.gif" width="25"> I graduated with a Bachelor's degree in E-commerce from the **[University of Information Technology - Vietnam National University - Ho Chi Minh City](https://www.uit.edu.vn/)**
 
@@ -26,7 +26,7 @@
 ```JSON
 {
   "Languages": {
-    "Main": ["JavaScript", "TypeScript", "Java", "Markdown"],
+    "Main": ["JavaScript", "TypeScript"],
   },
   "Frontend": {
     "Main": ["HTML", "CSS", "Sass", "ReactJS", "NextJS"],
@@ -34,16 +34,14 @@
     "UI": ["Ant Design", "Material UI", "Reactstrap", "Chakra UI", "Styled Components"],
     "Library": ["Redux", "React Router", "Axios", "React Query"],
   },
-  "Backend": {
-    "Main": ["NodeJS", "ExpressJS", "JWT"],
-    "Basic": ["Spring", "Laravel"],
-  },
   "Mobile": {
-    "Basic": ["React Native", "Ionic Framework"],
+    "Main": ["React Native"],
   },
-  "Database": {
-    "Main": ["MySQL", "MongoDB"],
-    "Basic": ["Microsoft SQL Server", "Firebase", "Supabase"],
+  "Version Control": {
+    "Main": ["Git", "GitHub", "GitLab"],
+  },
+  "Tools": {
+    "Main": ["VS Code", "Xcode", "Android Studio", "Android Studio", "Postman", "Swagger", "Figma", ],
   },
 }
 ```
