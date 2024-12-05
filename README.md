@@ -32,16 +32,19 @@
     "Main": ["HTML", "CSS", "Sass", "ReactJS", "NextJS"],
     "CSS Framework": ["TailwindCSS", "Bootstrap"],
     "UI": ["Ant Design", "Material UI", "Reactstrap", "Chakra UI", "Styled Components"],
-    "Library": ["Redux", "React Router", "Axios", "React Query"],
+    "Library": ["React Query", "Zustand",  "Redux", "React Router", "Axios"],
   },
   "Mobile": {
     "Main": ["React Native"],
+  },
+  "Testing": {
+    "Main": ["Detox"]
   },
   "Version Control": {
     "Main": ["Git", "GitHub", "GitLab"],
   },
   "Tools": {
-    "Main": ["VS Code", "Xcode", "Android Studio", "Android Studio", "Postman", "Swagger", "Figma"],
+    "Main": ["VS Code", "Xcode", "Android Studio", "Postman", "Swagger", "Sourcetree", "Figma"],
   },
 }
 ```
