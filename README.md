@@ -101,7 +101,7 @@
 <div align="center">
   <h3>
   🥰 Thanks for watching my profile! Have a nice day! 😘 <br/>
-  &copy; 2024 Le Ha Gia Bao
+  &copy; 2025 Le Ha Gia Bao
   </h3>
   <img src="./assets/Divider.gif">
   <img src="./assets/Mario_Gameplay.gif">
