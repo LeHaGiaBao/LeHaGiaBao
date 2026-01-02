@@ -15,7 +15,7 @@
 
 <img src="./assets/Rocket.gif" width="25"> I want to improve my skills to become a **Fullstack Software Engineer**
 
-<img src="./assets/Earth.gif" width="25">   In my free time, I pursue **UI/UX Design**
+<img src="./assets/Earth.gif" width="25"> In my free time, I pursue **UI/UX Design**
 
 <img src="./assets/Giphy.gif" width="25"> I have a knowledge in **`Frontend Development` `Mobile Development` `Backend Development` `RESTful API` `Object Oriented Programming` `Data Structures and Algorithms`**
 
@@ -26,7 +26,7 @@
 ```JSON
 {
   "Languages": {
-    "Main": ["JavaScript", "TypeScript"],
+    "Main": ["JavaScript", "TypeScript", "Swift"],
   },
   "Frontend": {
     "Main": ["HTML", "CSS", "Sass", "ReactJS", "NextJS"],
@@ -35,7 +35,7 @@
     "Library": ["React Query", "Zustand",  "Redux", "React Router", "Axios"],
   },
   "Mobile": {
-    "Main": ["React Native"],
+    "Main": ["React Native", "Swift UIKit", "SwiftUI", "RxSwift"],
   },
   "Testing": {
     "Main": ["Detox"]
@@ -101,7 +101,7 @@
 <div align="center">
   <h3>
   🥰 Thanks for watching my profile! Have a nice day! 😘 <br/>
-  &copy; 2025 Le Ha Gia Bao
+  &copy; 2026 Le Ha Gia Bao
   </h3>
   <img src="./assets/Divider.gif">
   <img src="./assets/Mario_Gameplay.gif">
